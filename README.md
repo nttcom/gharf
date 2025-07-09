@@ -305,7 +305,7 @@ Some features implemented in the CLI Client are not available in the "C2 manual 
   * Self-hosted runner
 
 ## Demo
-
+Setting up a runner and running shell commands
 https://github.com/user-attachments/assets/2fdb83c0-29fa-453b-9847-158deb2e6b0f
 
 ## Security and Reseach Ethics
