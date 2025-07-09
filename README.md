@@ -304,6 +304,9 @@ Some features implemented in the CLI Client are not available in the "C2 manual 
 * Target evaluation environment
   * Self-hosted runner
 
+## Demo
+
+https://github.com/user-attachments/assets/2fdb83c0-29fa-453b-9847-158deb2e6b0f
 
 ## Security and Reseach Ethics
 ### Defensive Measures Against GHARF
