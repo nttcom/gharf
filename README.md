@@ -227,7 +227,8 @@ You can apply filters with `--filter-options`, which supports regular expression
 ```sh
 $ python3 client.py shell --sourcecode 'whoami' --hostlabel c2-win-20250609
 runners: c2-win-20250609
-                                                                                    $ python3 client.py logs --n 1                                              
+
+$ python3 client.py logs --n 1                                              
 results found: 1
 ================================================================
 id           : 16134432764
@@ -305,7 +306,7 @@ Some features implemented in the CLI Client are not available in the "C2 manual 
   * Self-hosted runner
 
 ## Demo
-Setting up a runner and running shell commands
+### Setting up a runner and running shell commands
 
 https://github.com/user-attachments/assets/2fdb83c0-29fa-453b-9847-158deb2e6b0f
 
