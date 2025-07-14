@@ -308,7 +308,7 @@ Some features implemented in the CLI Client are not available in the "C2 manual 
 ## Demo
 ### Setting up a runner and running shell commands
 
-https://github.com/user-attachments/assets/2fdb83c0-29fa-453b-9847-158deb2e6b0f
+https://github.com/user-attachments/assets/d2c27579-55d4-4504-9fdc-6ce784a8fe99
 
 ## Security and Reseach Ethics
 ### Defensive Measures Against GHARF
